@@ -1,0 +1,9 @@
+[33mc79e2a9[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m feat: complete investigation management backend
+[33m98a4d9d[m[33m ([m[1;31morigin/master[m[33m)[m Complete JWT authentication with protected routes
+[33m5c8ed50[m Implement JWT-based user authentication
+[33m8d5cc65[m Implement user registration with secure password hashing
+[33m658122d[m Add project README and gitignore
+[33m5f22deb[m Complete case management CRUD module
+[33m6f75614[m Implement case creation and retrieval APIs
+[33maca4ed7[m Setup FastAPI backend with PostgreSQL and SQLAlchemy
+[33mff5185f[m Initial FastAPI backend setup
